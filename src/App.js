@@ -9,7 +9,7 @@ export default function App() {
           Dictionary
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset"/>
         </main>
         <footer>Coded by Theresa Breitwieser, open-sourced on <a href="https://github.com/TheresaBreitwieser/dictionary-react" target="_blank" rel="noreferrer"> Github</a></footer>
       </div>
